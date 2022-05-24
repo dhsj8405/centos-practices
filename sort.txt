@@ -1,8 +1,0 @@
-apple
-hat
-java
-javascript
-linux
-node
-red
-unix
